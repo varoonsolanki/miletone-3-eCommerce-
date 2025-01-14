@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-img {
+  background-image: url('../../public/pictures/bg-1.jpeg');
+}
+
+.promo-1 {
+  background-image: url('../../public/pictures/bg-1.jpeg');
+}
+
+.promo-2 {
+  background-image: url('../../public/pictures/promo-1.jpeg');
+}
+
+.myDiscount {
+  transform: rotate(-90deg) translate(10px, -69px);
+  transform-origin: 100%;
+}
