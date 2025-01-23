@@ -26,7 +26,7 @@ const Navbar = () => {
           </div>
           <Image src={"/pictures/New Thar Mobile.png"} alt="Logo" width={250} height={60} className="lg:flex hidden pl-4"/>
         </div>
-        <div className="navbar-center">
+        <div className="navbar-center ">
         <Image src={"/pictures/New Thar Mobile.png"} alt="Logo" width={150} height={50} className="flex lg:hidden"/>
 
           <div className="hidden lg:flex">

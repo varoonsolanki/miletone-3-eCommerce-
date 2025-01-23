@@ -58,7 +58,7 @@ const Categories = () => {
 
         {/* Category 3 */}
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
-          <Link href={"/covers"}>
+          <Link href={"/cover"}>
             <Image
               src={"/pictures/coverss.jpeg"}
               alt="Covers"
@@ -78,7 +78,7 @@ const Categories = () => {
 
         {/* Category 4 */}
         <div className="mb-7 lg:mb-0 overflow-hidden z-10 mx-auto group relative">
-          <Link href={"/Speaker"}>
+          <Link href={"/speaker"}>
             <Image
               src={"/pictures/speakers.jpeg"}
               alt="Speakers"
