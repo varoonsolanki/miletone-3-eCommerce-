@@ -17,25 +17,25 @@ import {
 
 const components: { title: string; href: string; description: string }[] = [
   {
-    title: "Smartphones",
-    href: "/stationary",
+    title: "Smartphones📱",
+    href: "/smartphones",
     description:
-      "Stationary Available in Best Quilty and Reasonable Price for Your Study",
+      "Discover the Latest Smartphones: Power, Style, and Innovation Combined",
   },
   {
-    title: "Electronic",
-    href: "/electronic",
-    description: "Electronics Accessories & Supplies",
+    title: "Speaker🔊",
+    href: "/speaker",
+    description: "Immersive Sound, Powerful Performance: Your Perfect Speaker Awaits",
   },
   {
-    title: "Sports",
-    href: "/sports",
-    description: "Gear Up for Every Sport, Every Day!",
+    title: "Covers🛡️",
+    href: "/cover",
+    description: "Stylish Protection: Explore Covers That Reflect Your Personality",
   },
   {
-    title: "Photo Studio",
-    href: "/photoStudio",
-    description: "Capturing Moments, Creating Memories",
+    title: "Airpods🎧",
+    href: "/airpods",
+    description: "Seamless Sound, Effortless Comfort: Elevate Your Audio Experience",
   },
 ];
 
